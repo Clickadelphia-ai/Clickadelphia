@@ -12,7 +12,7 @@
 - 📫 How to reach me: [@ethanjhelhowski](https://www.instagram.com/ethanjhelhowski) on Instagram
 - ⚡ Fun fact: my GitHub handle is a Philly pun — Click + Philadelphia
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clickadelphia&show_icons=true&theme=default)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clickadelphia-ai&show_icons=true&theme=default)
 
 <!--
 **Clickadelphia/Clickadelphia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
